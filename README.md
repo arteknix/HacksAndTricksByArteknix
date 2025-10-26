@@ -1,5 +1,5 @@
 # HacksAndTricksByArteknix
-This is where I publish the answers to all these more or less trick questions :-)
+This is where I publish the answers to all these more or less tricky questions :-)
 
 This is definately Linux oriented. I like my operating system to be a plus in my life.
 
